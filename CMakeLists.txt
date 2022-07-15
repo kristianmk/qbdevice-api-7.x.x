@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5.1)
-project(qbrobotics_device_API VERSION 1.0.2 LANGUAGES CXX)
+project(qbrobotics_device_API VERSION 1.1.2 LANGUAGES CXX)
 message("-- [ ${PROJECT_NAME}] start compiling")
 
 # Add dependencies in the order you want them to build.
