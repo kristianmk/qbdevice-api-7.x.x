@@ -2,6 +2,10 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.3 (2022-07-18)
+------------------
+* Bug fixed in qbrobotics-driver pkg with installation directory
+
 1.1.2 (2022-07-15)
 ------------------
 * Increased timeout in qbrobotics-driver pkg to improve device scanning on Windows PCs
