@@ -2,6 +2,10 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.4 (2023-07-10)
+------------------
+* updated qbdevice-driver to v7.1.3
+
 1.1.3 (2022-07-18)
 ------------------
 * Bug fixed in qbrobotics-driver pkg with installation directory
