@@ -2,7 +2,11 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.1.6 (2023-07-10)
+1.1.7 (2023-07-18)
+------------------
+* updated qbdevice-driver to v7.2.2
+
+1.1.6 (2023-07-17)
 ------------------
 * updated qbdevice-driver to v7.2.1
 
