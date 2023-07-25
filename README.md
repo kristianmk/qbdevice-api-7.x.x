@@ -33,3 +33,9 @@ In order to compile **STATIC** or **DYNAMIC** libraries just move to each of CMa
 
 ---
 
+## GEt THE LATEST UPDATES
+Since the project is composed of git submodules, to get the latest updates run the command:
+
+```
+git submodule update --init 
+```

@@ -2,6 +2,15 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.9 (2023-07-24)
+------------------
+* FEAT: Updated README.md file. qbrobotics driver v7.2.5 & Serial v2.0.5
+
+1.1.8 (2023-07-24)
+------------------
+* FEAT: qbdevice driver v7.2.4 & serial v2.0.4
+* FEAT: Created scripts to automatize release process
+
 1.1.7 (2023-07-18)
 ------------------
 * updated qbdevice-driver to v7.2.2
@@ -10,7 +19,7 @@ Changelog for package qbdevice-api-7.x.x
 ------------------
 * updated qbdevice-driver to v7.2.1
 
-1.1.5 (2023-07-10)
+1.1.5 (2023-07-13)
 ------------------
 * updated qbdevice-driver to v7.2.0
 
@@ -20,7 +29,7 @@ Changelog for package qbdevice-api-7.x.x
 
 1.1.3 (2022-07-18)
 ------------------
-* Bug fixed in qbrobotics-driver pkg with installation directory
+* Added shell script to help during the release phase.
 
 1.1.2 (2022-07-15)
 ------------------
