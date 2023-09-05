@@ -2,6 +2,14 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.11 (2023-09-05)
+------------------
+* Add position-current control mode in SetPositionAndStiffness
+
+1.1.10 (2023-08-30)
+------------------
+* FEAT: updated to qbrobotics driver v7.2.6
+
 1.1.9 (2023-07-24)
 ------------------
 * FEAT: Updated README.md file. qbrobotics driver v7.2.5 & Serial v2.0.5
