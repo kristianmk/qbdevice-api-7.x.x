@@ -2,6 +2,14 @@
 Changelog for package qbdevice-api-7.x.x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.13 (2023-09-06)
+------------------
+* FIX: changed internal file.
+
+1.1.12 (2023-09-06)
+------------------
+* FEAT: API SHIN are now compatible with FW 1.1.0. Libs on windows can be compiled using MinGW.
+
 1.1.11 (2023-09-05)
 ------------------
 * Add position-current control mode in SetPositionAndStiffness
